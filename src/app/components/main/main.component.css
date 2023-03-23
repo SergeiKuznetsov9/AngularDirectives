@@ -1,0 +1,12 @@
+.rect {
+  width: 400px;
+  height: 400px;
+  background-color: greenyellow;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.pressed {
+  background-color: red;
+}
